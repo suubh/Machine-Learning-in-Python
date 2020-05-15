@@ -1,2 +1,7 @@
 # Data-Preprocessing
-My learnings on Data Preprocessing using Python
+# Linear Regression
+# Logistic Regression
+# Decision Tree
+# K-Means
+# SUPPORT VECTOR MACHINE
+# BAGGING AND RANDOM FOREST
