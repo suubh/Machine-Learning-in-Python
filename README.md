@@ -5,3 +5,4 @@
 # K-NN Classifier
 # SUPPORT VECTOR MACHINE
 # BAGGING AND RANDOM FOREST
+# Text Analytics
