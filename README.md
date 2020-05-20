@@ -6,4 +6,4 @@
 # SUPPORT VECTOR MACHINE
 # BAGGING AND RANDOM FOREST
 # Text Analytics
-# Naive Bayes Classifer
+# Naive Bayes Classifier
