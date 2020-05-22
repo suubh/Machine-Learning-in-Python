@@ -7,3 +7,4 @@
 # BAGGING AND RANDOM FOREST
 # Text Analytics
 # Naive Bayes Classifier
+# Sentiment Analysis
