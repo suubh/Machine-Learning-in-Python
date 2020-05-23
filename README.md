@@ -8,3 +8,5 @@
 # Text Analytics
 # Naive Bayes Classifier
 # Sentiment Analysis
+# K-Means (Unsupervised Learning)
+
