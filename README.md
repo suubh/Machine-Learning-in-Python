@@ -23,7 +23,7 @@ The projects are divided into various categories listed below -
   - [Random Forest Classification]()
 
 ## Unsupervised Learning 
-  - [K Means Clustering]()K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences.
+  - [K Means Clustering]() K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences.
 
 ## NLP(Natural Language Processing)
   - [Text Analytics]()
