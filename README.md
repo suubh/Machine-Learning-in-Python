@@ -14,7 +14,7 @@ The following libraries are required to successfully implement the projects.
 The projects are divided into various categories listed below -
 
 ## Supervised Learning 
-  - [**Linear Regression**]()
+  - [##**Linear Regression**]()
      - [Linear Regression Single Variables.](https://github.com/suubh/Machine-Learning-in-Python/blob/master/Linear%20Regression/LinearRegressionSingle%20Variables.ipynb) : A Simple Linear Regression Model to model the linear relationship between Population and Profit for plot sales.
      - [Linear Regression Multiple Variables.](https://github.com/suubh/Machine-Learning-in-Python/blob/master/Linear%20Regression/LinearRegressionMultipleVariables.ipynb) : In this project, I build a Linear Regression Model for multiple variables for predicting the House price based on acres and number of rooms.
    
