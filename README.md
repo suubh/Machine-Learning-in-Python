@@ -53,12 +53,13 @@ The projects are divided into various categories listed below -
     - ***One Hot Encoding*** : It creates a dummy variable with value 0 to n(unique value count in the column) for each category value.Extra columns are created.
 
 ## Some Comparisons on Datasets
+- 
 | **Social Network Ads**     | **Accuracy**|
 | ----------- | ----------- |
 | Support Vector Machine     | 90.83%     |
 | Random Forest Classifier   | 90.0%      |
 | Random Forest Regressor    | 61.8%      |
-
+- 
 | **Iris Dataset**     | **Accuracy** |
 | ----------- | ----------- |
 | KNN     | 98.3%     |
