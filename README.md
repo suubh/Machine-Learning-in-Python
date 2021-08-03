@@ -36,11 +36,11 @@ The projects are divided into various categories listed below -
 ## NLP( Natural Language Processing )
   - [**Text Analytics**](https://github.com/suubh/Machine-Learning-in-Python/blob/master/TextAnalytics/textAnalytics.ipynb) : It is a project for Introduction to Text Analytics in NLP.I performed the important steps -
     - ***Tokenization***
-    - ***Removal of Special Char***
+    - ***Removal of Special Characters***
     - ***Lower Case***
     - ***Removing StopWords***
     - ***Stemming*** 
-    - ***Count Vectorizer***  (Which generally performs all the steps mentioned above except Stemming)
+    - ***Count Vectorizer***  ( which generally performs all the steps mentioned above except Stemming)
     - ***DTM (Document Term Matrix)***
     - ***TF-IDF (Text Frequency Inverse Document Frequency)***
     
