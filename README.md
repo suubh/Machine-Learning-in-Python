@@ -1,4 +1,4 @@
-# Machine Learning with Python 
+# Machine Learning in Python 
 This repository contains Machine Learning Projects in Python programming language. 
 All the projects are done on Jupyter Notebooks.
 
