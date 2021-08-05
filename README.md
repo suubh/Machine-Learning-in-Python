@@ -65,6 +65,11 @@ The projects are divided into various categories listed below -
 | KNN     | 98.3%     |
 | Decision Tree   | 96.7%      |
 
+## Kaggle
+<a href="https://kaggle.com/shub99">
+  
+![Screenshot from 2021-08-05 06-34-18](https://user-images.githubusercontent.com/47265493/128275262-3e8c18c3-3710-4fbf-aff6-7d511bf1a7fb.png)
+</a>
 
 
 
